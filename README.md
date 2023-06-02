@@ -1,2 +1,2 @@
 # FinalProject
-Final Project for Virtual Internship - Home Credit Indonesia
+Final Project Virtual Internship - Home Credit Indonesia
